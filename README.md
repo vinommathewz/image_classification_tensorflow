@@ -1,2 +1,2 @@
-# Training an Image Classification model using Tensorflow
+# Image Classification using Tensorflow
 Training an image classification model using Tensorflow
